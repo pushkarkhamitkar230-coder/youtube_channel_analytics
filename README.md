@@ -4,7 +4,7 @@ An end-to-end data analytics project analyzing 500+ videos from the YouTube chan
 
 ## Overview
 
-The channel began in 2018 with railway electrification coverage and expanded into travel vlogging — trains, buses, and flights — including a brand collaboration with Fly91 Airlines. This project uses the channel's own performance data to answer practical growth questions: **does chasing a higher CTR actually grow a channel, or does wider reach matter more? And how does a newer content category (Vande Bharat, introduced in 2022) stack up against the rest of the channel's output?**
+The channel began in 2018 with railway electrification coverage and expanded into travel vlogging — trains, buses, and flights — including a brand collaboration with Fly91 ( Just Udo Aviation ) Airlines. This project uses the channel's own performance data to answer practical growth questions: **does chasing a higher CTR actually grow a channel, or does wider reach matter more? And how does a newer content category (Vande Bharat, introduced in 2022) stack up against the rest of the channel's output?**
 
 Each dashboard page below is framed around specific business questions, with the answer derived directly from the data.
 
