@@ -1,6 +1,6 @@
 # YouTube Channel Analytics — CTR, Growth & Category Performance
 
-An end-to-end data analytics project analyzing 500+ videos from the YouTube channel [@PushkarKhamitkar](https://www.youtube.com/@PushkarKhamitkar), investigating whether Click-Through Rate (CTR) reliably predicts subscriber growth and viewership, and comparing the performance of Vande Bharat Express–related content against all other content on the channel.
+An end-to-end data analytics project analyzing 500+ videos from the YouTube channel [@PushkarKhamitkar](https://www.youtube.com/@PushkarKhamitkar), investigating whether Click-Through Rate (CTR) reliably predicts subscriber growth and viewership, and comparing the performance of Vande Bharat Express–related content against all other category content on the channel.
 
 ## Overview
 
