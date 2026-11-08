@@ -21,7 +21,7 @@ Each dashboard page below is framed around specific business questions, with the
 
 ---
 
-## Page 1 — Channel Overview
+## Page 1 — Channel Overview Dashboard
 
 **Business question:** What does the channel's performance look like at a glance, and which single video has been the strongest overall performer?
 
